@@ -126,10 +126,12 @@ can handle all cases correctly
 ******************************************************************************/
 
 let userName = "";
-
+// testet med å fylle inn navn
 let userAge = 18;
+// blitt testet med alder under og over 18
 
 let userIsLoggedIn = false;
+// tested med å endre variabel til true
 
 let userIsBlocked = false;
 
